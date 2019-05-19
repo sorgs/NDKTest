@@ -5,6 +5,7 @@
 #include <sys/mman.h>
 
 #include "ProjectorFocusManagerExt.h"
+#include "ProjectorFocusWrapperType.h"
 
 extern "C"
 JNIEXPORT void JNICALL

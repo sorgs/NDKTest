@@ -2,11 +2,7 @@
 # documentation: https://d.android.com/studio/projects/add-native-code.html
 
 # Sets the minimum version of CMake required to build the native library.
-#本次使用绝对路径作为参数
-#set(ProjectRoot G:/AndroidStudioProjects/JNIDemo)
 cmake_minimum_required(VERSION 3.4.1)
-#配置加载native依赖
-include_directories( ${ProjectRoot}/app/src/main/jni/include )
 
 # Creates and names a library, sets it as either STATIC
 # or SHARED, and provides the relative paths to its source code.
