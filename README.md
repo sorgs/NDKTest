@@ -115,5 +115,5 @@ target_link_libraries( # Specifies the target library.
 - 在自己的cpp里面就只直接通过include引用第三的文件夹了，以及调用第三方的so文件
 
 # 结语
-1.建议按照这样的路径来放置，防止出现问题。
-2.demo已经放到了github上面，可以进行参考配置。[https://github.com/sorgs/NDKTest](https://github.com/sorgs/NDKTest "https://github.com/sorgs/NDKTest")
+1. 建议按照这样的路径来放置，防止出现问题。
+2. demo已经放到了github上面，可以进行参考配置。[https://github.com/sorgs/NDKTest](https://github.com/sorgs/NDKTest "https://github.com/sorgs/NDKTest")
